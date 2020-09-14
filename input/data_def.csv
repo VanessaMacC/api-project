@@ -1,0 +1,2 @@
+pokedex_number,name,generation,species,type_number,speed,attack,defense,weight,height,img
+3,venusaur,1,Seed Pokémon,2,80.0,82.0,83.0,1000,20,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
