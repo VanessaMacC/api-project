@@ -7,4 +7,5 @@ especie a la que pertenece, entre otros datos.
 
 Analizada la información en formato dataframe, se llama a la [Pokeapi](https://pokeapi.co/) y se examina su documentación (https://pokeapi.co/docs/v2).
 
+
 <img src="Pokeapi.png" width="250">
