@@ -6,7 +6,7 @@ En este caso he seleccionado un csv de [Kaggle](https://www.kaggle.com/mariotorm
 
 Analizada la información en formato dataframe, se llama a la [Pokeapi](https://pokeapi.co/) y se examina su documentación (https://pokeapi.co/docs/v2).
 
-![img](/input/Pokeapi.jpg)
+<img src="/input/Pokeapi.jpg?raw=true" width="600" height="200" />
 
 Una vez creados los archivos .py, llamo por la terminal al archivo main y dado un id de Pokémon me imprime
 por pantalla los atributos seleccionados en la función.
